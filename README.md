@@ -3,7 +3,7 @@ Creating multiple reports using R Markdown.
 
 The Markdown script will be called for each unique person in the data to create a personalised letter for every row. 
 
-Using athlete data from Kaggle a personlaised letter will be created for anyone that was awarded a medal in the 2008 Beijing Olympics.
+Using athlete data from Kaggle a personalised letter will be created for anyone that was awarded a medal in the 2008 Beijing Olympics.
 
 ## Getting Started
 
