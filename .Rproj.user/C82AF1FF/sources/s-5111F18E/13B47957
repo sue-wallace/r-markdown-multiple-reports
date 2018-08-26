@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1535270437397.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "13B47957",
+    "lastKnownWriteTime" : 1535306073,
+    "last_content_update" : 1535306073952,
+    "path" : "~/Documents/R_Projects/olympics_letter/R/1. Data Wrangle.R",
+    "project_path" : "R/1. Data Wrangle.R",
+    "properties" : {
+        "cursorPosition" : "10,31",
+        "scrollLine" : "13"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

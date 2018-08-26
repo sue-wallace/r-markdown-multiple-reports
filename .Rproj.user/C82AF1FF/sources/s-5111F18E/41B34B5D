@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1535270436656.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2421546521",
+    "id" : "41B34B5D",
+    "lastKnownWriteTime" : 1535305937,
+    "last_content_update" : 1535305937773,
+    "path" : "~/Documents/R_Projects/olympics_letter/R/R Markdown Loop.Rmd",
+    "project_path" : "R/R Markdown Loop.Rmd",
+    "properties" : {
+        "cursorPosition" : "25,26",
+        "scrollLine" : "18"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

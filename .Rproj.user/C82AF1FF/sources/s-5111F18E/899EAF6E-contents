@@ -1,0 +1,24 @@
+---
+output:
+  word_document:
+    reference_docx: word_template_v01.docx
+---
+
+![](beijing_2008.png)
+
+```{r setup, include=FALSE}
+
+#Load libraries----
+
+library(knitr)
+library(rmarkdown)
+
+athletes <- olympics[unique(olympics$ID)==athletes,]
+
+
+olympics %>%
+  filter (ID==athletes$ID) -> letters
+
+```
+
+It has been 10 years since you won your `olympics$Medal`!
