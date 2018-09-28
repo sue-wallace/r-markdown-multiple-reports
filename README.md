@@ -17,7 +17,7 @@ In order to run this you'll need R Studio installed, as well as the following li
 
 ## Data
 
-Data has been downloaded from (Kaggle):[https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results]
+Data has been downloaded from (Kaggle)[https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results]
 
 ## Also included 
 
